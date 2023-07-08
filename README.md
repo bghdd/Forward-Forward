@@ -11,5 +11,6 @@ which is a reimplementation of Geoffrey Hinton's Forward-Forward Algorithm in Py
 There is no conda or hydra used so you can have a better understanding of how the code works in one notebook.
 
 ## How to Use
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IRLDbQOyQkbchIOYM5Set_rIO4UcFPsn?usp=sharing) (make sure to change runtime type to GPU)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bghdd/Forward-Forward/blob/main/forward_forward_colab.ipynb) (make sure to change runtime type to GPU)
+
 
